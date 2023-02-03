@@ -6,7 +6,7 @@ body{
 .mainblock{
     background-color: rgb(71, 71, 71);
     width: 600px;
-    height: 660px;
+    height: 380px;
     text-align: left;
     margin-top: 15px;
     border-radius: 5px;
@@ -21,7 +21,7 @@ body{
 .ava{
     margin-top:20px;
     margin-left: 100px;
-    width: 400px;
+    width: 200px;
     border-radius: 5px;
 }
 .info {
@@ -65,7 +65,7 @@ body{
     font-family: arial;
     background-color: rgb(71, 71, 71);
     color: white;
-    width: 600px;
+    width: 300px;
     display: inline-block;
     margin-top: 15px;
     border-radius: 5px;
@@ -84,7 +84,7 @@ body{
     font-family: arial;
     background-color: rgb(71, 71, 71);
     color: white;
-    width: 600px;
+    width: 300px;
     display: inline-block;
     margin-top: 15px;
     border-radius: 5px;
