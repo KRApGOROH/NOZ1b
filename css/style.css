@@ -5,8 +5,8 @@ body{
 }
 .mainblock{
     background-color: rgb(71, 71, 71);
-    width: 600px;
-    height: 380px;
+    width: 300px;
+    height: 390px;
     text-align: left;
     margin-top: 15px;
     border-radius: 5px;
@@ -65,7 +65,7 @@ body{
     font-family: arial;
     background-color: rgb(71, 71, 71);
     color: white;
-    width: 300px;
+    width: 390px;
     display: inline-block;
     margin-top: 15px;
     border-radius: 5px;
@@ -74,7 +74,7 @@ body{
     font-family: arial;
     background-color: rgb(71, 71, 71);
     color: white;
-    width: 600px;
+    width: 390px;
     display: inline-block;
     margin-top: 15px;
     border-radius: 5px;
@@ -84,7 +84,7 @@ body{
     font-family: arial;
     background-color: rgb(71, 71, 71);
     color: white;
-    width: 300px;
+    width: 390px;
     display: inline-block;
     margin-top: 15px;
     border-radius: 5px;
